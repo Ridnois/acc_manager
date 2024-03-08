@@ -1,0 +1,26 @@
+{
+  "data": {
+    "accounts": [
+      {
+        "accountAlias": "Casa",
+        "accountNumber": 1234,
+        "balance": 420001
+      },
+      {
+        "accountAlias": "Personal",
+        "accountNumber": 1234,
+        "balance": 100144
+      },
+      {
+        "accountAlias": "Secundaria",
+        "accountNumber": 1234,
+        "balance": 84001
+      },
+      {
+        "accountAlias": "Auto",
+        "accountNumber": 1234,
+        "balance": 24001
+      }
+    ]
+  }
+}
